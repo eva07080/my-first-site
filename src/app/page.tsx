@@ -14,7 +14,7 @@ export default function Home() {
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-[#22989D]">
-            안녕하세요, 박은주입니다
+            안녕하세요,<br /> 박은주입니다
           </h1>
           <p className="text-[#C84726] font-medium">
             오늘 처음 인터넷에 사이트를 올렸어요!
